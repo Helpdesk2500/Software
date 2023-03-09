@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/Helpdesk2500/Software/main/Image/1.png)
+![image](https://raw.githubusercontent.com/Helpdesk2500/Image/main/1.png)
 
 
 终端输入 wget https://github.com/Helpdesk2500/Software/blob/main/Teamviewe/Teamviewer.sh  下载脚本
