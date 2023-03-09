@@ -1,3 +1,5 @@
+![pic1](/home/nio/Downloads/terminal.jpg)
+
 终端输入 wget https://github.com/Helpdesk2500/Software/blob/main/Teamviewe/Teamviewer.sh  下载脚本
 远程用户电脑之后我们新建一个终端
 打开用户的终端之后我们自己cd到Downloads文件夹
