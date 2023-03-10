@@ -5,8 +5,12 @@
 然后打开终端
 先安装框架（因为搜狗输入法用的是FCITX的框架模式  默认的框架不支持）
 
-sudo apt-get install fcitx-bin    
+sudo apt-get install fcitx-bin
+
 sudo apt-get install fcitx-table
+
+sudo dpkg -i sogouXXXXXX.deb
+
 运行结束之后打开 Lanuage support
 
 
